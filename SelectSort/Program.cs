@@ -12,9 +12,9 @@ namespace SelectSort
     {
         static void Main(string[] args)
         {
-            int[] arr = {1, 2, 4, 9, 11, 18, 7};
-            int LowestIndex = 0;
-            int currentLowest;
+            int[] arr = {1, 2, 4, 9, 11, 18, 7}; //Creates array 
+            int LowestIndex = 0; //Set the lowest index
+            int currentLowest; 
 
             while (LowestIndex < arr.Length)
             {
@@ -28,6 +28,7 @@ namespace SelectSort
                     }
                 }
 
+                //Used swap the current lowest with the lowest index 
                 int temp = arr[currentLowest];
                     arr[currentLowest] = arr[LowestIndex];
                     arr[LowestIndex] = temp;

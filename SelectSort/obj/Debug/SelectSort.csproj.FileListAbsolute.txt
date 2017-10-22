@@ -5,3 +5,10 @@ C:\Users\Simon\Source\Repos\SelectSort\SelectSort\obj\Debug\SelectSort.csprojRes
 C:\Users\Simon\Source\Repos\SelectSort\SelectSort\obj\Debug\SelectSort.csproj.CoreCompileInputs.cache
 C:\Users\Simon\Source\Repos\SelectSort\SelectSort\obj\Debug\SelectSort.exe
 C:\Users\Simon\Source\Repos\SelectSort\SelectSort\obj\Debug\SelectSort.pdb
+C:\Users\Simon\Documents\Programming Semester 2\Class programming\SelectionSort\SelectSort\bin\Debug\SelectSort.exe.config
+C:\Users\Simon\Documents\Programming Semester 2\Class programming\SelectionSort\SelectSort\bin\Debug\SelectSort.exe
+C:\Users\Simon\Documents\Programming Semester 2\Class programming\SelectionSort\SelectSort\bin\Debug\SelectSort.pdb
+C:\Users\Simon\Documents\Programming Semester 2\Class programming\SelectionSort\SelectSort\obj\Debug\SelectSort.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Programming Semester 2\Class programming\SelectionSort\SelectSort\obj\Debug\SelectSort.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Documents\Programming Semester 2\Class programming\SelectionSort\SelectSort\obj\Debug\SelectSort.exe
+C:\Users\Simon\Documents\Programming Semester 2\Class programming\SelectionSort\SelectSort\obj\Debug\SelectSort.pdb
